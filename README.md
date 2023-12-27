@@ -1,18 +1,18 @@
 # JOANNE-321
-Hi There!
 <h1 align="center">Hi 👋, I'm JOANNE CHING YIN XUAN</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">I'm a first-year Data Engineering undergraduate student at Universiti Teknologi Malaysia (UTM).I'm immersing myself in fundamental concepts in the course and realizing that there's always more to learn. I appreciate the advice from professors and support from my peers. My long-term objective is to become a skilled data engineer who can make a significant contribution to the industry.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joanne-321&label=Profile%20views&color=0e75b6&style=flat" alt="joanne-321" /> </p>
+- 🌱 I’m currently learning **Data Engineering**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joanne-321" alt="joanne-321" /></a> </p>
+- 📫 How to reach me **jyinxuan@gmail.com**
+
+- ⚡ Fun fact **I'm the expert at finding dairy-free options because of Lactose intolerance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/?hl=en" height="30" width="40" /></a>
+<a href="https://fb.com/cyx joanne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cyx joanne" height="30" width="40" /></a>
+<a href="https://instagram.com/anyx_01234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anyx_01234" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joanne-321&show_icons=true&locale=en" alt="joanne-321" /></p>
