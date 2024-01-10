@@ -1,8 +1,9 @@
-# JOANNE-321
 <h1 align="center">Hi 👋, I'm JOANNE CHING YIN XUAN</h1>
 <h3 align="center">I'm a first-year Data Engineering undergraduate student at Universiti Teknologi Malaysia (UTM).I'm immersing myself in fundamental concepts in the course and realizing that there's always more to learn. I appreciate the advice from professors and support from my peers. My long-term objective is to become a skilled data engineer who can make a significant contribution to the industry.</h3>
 
 - 🌱 I’m currently learning: **Data Engineering**
+
+- 👨‍💻 All of my projects are available at [file:///C:/Users/HP/Downloads/html5up-phantom%20(1)/index.html](file:///C:/Users/HP/Downloads/html5up-phantom%20(1)/index.html)
 
 - 📫 How to reach me: **jyinxuan@gmail.com**
 
@@ -16,4 +17,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
