@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning: **Data Engineering**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/HP/Downloads/html5up-phantom%20(1)/index.html](file:///C:/Users/HP/Downloads/html5up-phantom%20(1)/index.html)
-
 - 📫 How to reach me: **jyinxuan@gmail.com**
+
+- 📝Resume [https://www.canva.com/design/DAF5lG33v7A/IeA7aIY0UTl-RxHzW1CIRQ/view?utm_content=DAF5lG33v7A&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF5lG33v7A/IeA7aIY0UTl-RxHzW1CIRQ/view?utm_content=DAF5lG33v7A&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 - ⚡ Fun fact: **I'm the expert at finding dairy-free options because of Lactose intolerance**
 
@@ -17,4 +17,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
