@@ -12,7 +12,7 @@
 
 
 
-- ⚡ Fun fact: **I'm the expert at finding dairy-free options because of Lactose intolerance**
+- ⚡ Fun fact: **I'm the expert at finding dairy-free options because of Lactose intolerance**/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
