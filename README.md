@@ -10,6 +10,8 @@
 </a>
 
 - 📚 E-portfolio: **https://joanne-321.github.io/**
+- 📚 Course: **https://joanne-321.github.io/**
+- 📚 Cert: [Click here to see my cert](https://github.com/JOANNE-321/JOANNE-321/files/13958624/cert.pdf)
 
 - ⚡ Fun fact: **I'm the expert at finding dairy-free options because of Lactose intolerance**
   
