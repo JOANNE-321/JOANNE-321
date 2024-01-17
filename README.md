@@ -20,13 +20,10 @@ Universiti: UNIVERSITI TEKNOLOGI MALAYSIA
   
 
 - 📫 How to reach me: **jyinxuan@gmail.com**
+- 📝Resume: [Click here](https://github.com/JOANNE-321/JOANNE-321/files/13958924/Resume.pdf)
 
-- Resume: <a href="https://export-download.canva.com/33v7A/DAF5lG33v7A/21/0-3624686957851189593.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20240110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240110T223104Z&X-Amz-Expires=59387&X-Amz-Signature=eb4ea4e09904bcd68618a7300e4f8a673803dde3801c2d57e182157e9cf032eb&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Resume.pdf&response-expires=Thu%2C%2011%20Jan%202024%2015%3A00%3A51%20GMT" target="_blank">
-  <img src="https://example.com/book-icon.png" alt="Click Here" height="30" width="40" />
-</a>
-  
-  
-- 📃&🏆 Cert: [Click here to see my cert](https://github.com/JOANNE-321/JOANNE-321/files/13958624/cert.pdf)
+
+- 📃🏆 Award & Cert: [Click here](https://github.com/JOANNE-321/JOANNE-321/files/13958624/cert.pdf)
 
 - 🌐 E-portfolio: ** https://joanne-321.github.io/**
 
