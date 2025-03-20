@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JOANNE CHING YIN XUAN</h1>
-<h3 align="center">I'm a first-year Data Engineering undergraduate student at Universiti Teknologi Malaysia (UTM).I'm immersing myself in fundamental concepts in the course and realizing that there's always more to learn. I appreciate the advice from professors and support from my peers. My long-term objective is to become a skilled data engineer who can make a significant contribution to the industry.</h3>
+<h3 align="center">I'm a Data Engineering undergraduate student at Universiti Teknologi Malaysia (UTM).I'm immersing myself in fundamental concepts in the course and realizing that there's always more to learn. I appreciate the advice from professors and support from my peers. My long-term objective is to become a skilled data engineer who can make a significant contribution to the industry.</h3>
 
 **🏫🎒🏫🎒🏫🎒🏫🎒🏫Education🏫🎒🏫🎒🏫🎒🏫🎒🏫🎒🏫**
 
