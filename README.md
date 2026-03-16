@@ -16,9 +16,6 @@ Universiti: UNIVERSITI TEKNOLOGI MALAYSIA
 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟
 
 - 🌱 I’m currently learning: **Data Engineering**
-- 📚 Course:
-**I am currently taking Programming Technique 1,Discrete Structure,Tecnology & Information System,Digital Logic and Integrity & Anti-Corruption**
-  
 
 - 📫 How to reach me: **jyinxuan@gmail.com**
 
