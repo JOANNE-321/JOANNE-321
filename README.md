@@ -22,7 +22,7 @@ Universiti: UNIVERSITI TEKNOLOGI MALAYSIA
 
 - 📫 How to reach me: **jyinxuan@gmail.com**
 
-- 📝Resume: [Click here](https://github.com/user-attachments/files/26013005/RESUME.pdf)
+- 📝 Resume: [Click here](https://github.com/user-attachments/files/26013005/RESUME.pdf)
 
 - 📃🏆 Award & Cert: [Click here](https://github.com/user-attachments/files/26012995/cert.pdf)
 
