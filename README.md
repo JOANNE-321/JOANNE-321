@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm JOANNE CHING YIN XUAN</h1>
-<h3 align="center">I'm a Data Engineering undergraduate student at Universiti Teknologi Malaysia (UTM).I'm immersing myself in fundamental concepts in the course and realizing that there's always more to learn. I appreciate the advice from professors and support from my peers. My long-term objective is to become a skilled data engineer who can make a significant contribution to the industry.</h3>
+<h3 align="center">I'm a Data Engineering undergraduate student at Universiti Teknologi Malaysia (UTM).I have developed strong foundations in programming, database systems, 
+and data processing in the course and realizing that there's always more to learn. I enjoy solving real-world problems using data and continuously improving my technical and analytical skills. I appreciate the advice from professors and support from my peers. My long-term objective is to become a skilled data engineer who can make a significant contribution to the industry.</h3>
 
 **🏫🎒🏫🎒🏫🎒🏫🎒🏫Education🏫🎒🏫🎒🏫🎒🏫🎒🏫🎒🏫**
 
@@ -38,4 +39,34 @@ Universiti: UNIVERSITI TEKNOLOGI MALAYSIA
 </p>
 
 <h3 align="left">Skills,Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a 
+
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</a>
+
+</p>
