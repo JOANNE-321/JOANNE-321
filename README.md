@@ -21,10 +21,10 @@ Universiti: UNIVERSITI TEKNOLOGI MALAYSIA
   
 
 - 📫 How to reach me: **jyinxuan@gmail.com**
-- 📝Resume: [Click here](https://github.com/JOANNE-321/JOANNE-321/files/13958924/Resume.pdf)
 
+- 📝Resume: [Click here](https://github.com/user-attachments/files/26013005/RESUME.pdf)
 
-- 📃🏆 Award & Cert: [Click here](https://github.com/JOANNE-321/JOANNE-321/files/13958624/cert.pdf)
+- 📃🏆 Award & Cert: [Click here](https://github.com/user-attachments/files/26012995/cert.pdf)
 
 - 🌐 E-portfolio: ** https://joanne-321.github.io/**
 
